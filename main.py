@@ -9,6 +9,12 @@ welcomeString = """welcome to rolldie.live!
 to use rolldie.live, simply pass your dice roll as such:
   rolldie.live/1d20
 
+other examples:
+  rolldie.live/20d20
+  rolldie.live/100d20/json
+
+Available formats are: json, csv, raw
+
 source code on https://github.com/woovie/rolldie.live"""
 
 def application(env, start_response):
