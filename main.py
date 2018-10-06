@@ -1,3 +1,4 @@
+import gambling_subprocessor as gambler
 import configparser
 import os
 
