@@ -1,4 +1,0 @@
-[discord_config]
-name = NAMEGOESHERE
-token = TOKENGOESHERE
-
